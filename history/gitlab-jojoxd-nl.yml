@@ -1,7 +1,7 @@
 url: https://gitlab.jojoxd.nl
-status: up
-code: 200
-responseTime: 1480
-lastUpdated: 2021-04-01T13:34:46.271Z
+status: down
+code: 502
+responseTime: 368
+lastUpdated: 2021-04-01T13:42:11.368Z
 startTime: Tue Jan 26 2021 13:12:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
